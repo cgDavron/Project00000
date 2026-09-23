@@ -1,0 +1,20 @@
+@"
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+DerivedDataCache/
+
+# Generated files
+*.sln
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+.idea/
+"@ | Out-File -Encoding UTF8 .gitignore
