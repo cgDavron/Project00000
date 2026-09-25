@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BP Text Exporter",
+	"Description": "Content Browser'da secili Blueprint'leri AI icin metne doker (Copy BP for AI).",
+	"Category": "Editor",
+	"CreatedBy": "ProjectZero",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BPTextExporter",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

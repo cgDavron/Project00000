@@ -17,4 +17,8 @@ Plugins/*/Intermediate/
 *.VC.db-shm
 *.VC.db-wal
 .idea/
+Binaries/
+Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
 "@ | Out-File -Encoding UTF8 .gitignore
